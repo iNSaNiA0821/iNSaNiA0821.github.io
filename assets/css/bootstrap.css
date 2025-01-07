@@ -5122,6 +5122,13 @@ input[type="button"].btn-block {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
+.bio {
+  font-size: 40px;
+  border-radius: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .badge {
     transition: none;
